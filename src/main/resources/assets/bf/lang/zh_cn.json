@@ -1,0 +1,5 @@
+{
+  "hack.bf.name": "船飞",
+  "command.bf.num_to_big": "输入的数太大了,输入的数最大为1.00，最小为0.01!",
+  "command.bf.cant_to_num": "无法将参数转换为浮点数。"
+}

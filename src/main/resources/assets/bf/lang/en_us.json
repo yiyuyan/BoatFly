@@ -1,0 +1,5 @@
+{
+  "hack.bf.name": "BoatFly",
+  "command.bf.num_to_big": "The number is too big,the arg max value is 1.00 and the arg min value is 0.01!",
+  "command.bf.cant_to_num": "Can't convert parameter to floating-point number."
+}
